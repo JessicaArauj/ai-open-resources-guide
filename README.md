@@ -111,7 +111,6 @@ Este documento lista ferramentas, plataformas, frameworks e serviços **100% gra
 |--------|----------------|---------|-------|
 | Llama 3.1 | Meta | 8B–405B | https://ai.meta.com |
 | Gemma 2 | Google | 2B–27B | https://ai.google.dev/gemma |
-| Phi-3 | Microsoft | 3B–14B | https://phi-models.github.io |
 | Mistral / Mixtral | Mistral AI | 7B–8x7B | https://mistral.ai |
 | Qwen 2 / 2.5 | Alibaba | 0.5B–72B | https://qwenlm.ai |
 | DeepSeek R1 | DeepSeek | 7B–30B | https://www.deepseek.com |
