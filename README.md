@@ -29,6 +29,7 @@ Este documento lista ferramentas, plataformas, frameworks e serviços **100% gra
 | Gensim | Modelagem de tópicos e embeddings | https://radimrehurek.com/gensim |
 | FastText | Embeddings eficientes | https://fasttext.cc |
 | IE20Q | Framework para agentes interativos | https://github.com/iesl/ie20q |
+| SBERT.net | biblioteca para treinar e rodar modelos NLP | https://sbert.net|
 
 ### 🖼️ Visão Computacional
 
@@ -56,6 +57,8 @@ Este documento lista ferramentas, plataformas, frameworks e serviços **100% gra
 | LlamaIndex | Framework para RAG | https://www.llamaindex.ai |
 | Haystack | Pipelines de NLP | https://haystack.deepset.ai |
 | DSPy | Paradigma declarativo para LLMs | https://dspy-docs.vercel.app |
+| Ollama | Biblioteca para rodar LLMs localmente | https://ollama.com |
+| CrewAI | Framework para orquestração de LLMs | https://www.crewai.com |
 
 ## 📌 2. Plataformas para Hospedar e Rodar LLMs
 
